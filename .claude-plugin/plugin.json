@@ -1,0 +1,15 @@
+{
+  "name": "ahamed-skills",
+  "version": "1.0.0",
+  "description": "Plan and build Kirki eCommerce block themes, and write LinkedIn posts with a matching banner.",
+  "author": {
+    "name": "Sajeeb Ahamed",
+    "url": "https://github.com/ahamed"
+  },
+  "repository": "https://github.com/ahamed/skills",
+  "keywords": ["skills", "wordpress", "block-theme", "kirki-ecommerce", "linkedin"],
+  "skills": [
+    "./skills/kirki-ecommerce-theme",
+    "./skills/linkedin-post"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ahamed-skills",
+  "owner": {
+    "name": "Sajeeb Ahamed",
+    "url": "https://github.com/ahamed"
+  },
+  "description": "Agent skills for Claude Code: Kirki eCommerce block themes and LinkedIn posts.",
+  "plugins": [
+    {
+      "name": "ahamed-skills",
+      "source": "./",
+      "description": "Plan and build Kirki eCommerce block themes, and write LinkedIn posts with a matching banner.",
+      "category": "productivity",
+      "keywords": ["skills", "wordpress", "block-theme", "kirki-ecommerce", "linkedin"]
+    }
+  ]
+}
