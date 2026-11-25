@@ -7,7 +7,14 @@
     "url": "https://github.com/ahamed"
   },
   "repository": "https://github.com/ahamed/skills",
-  "keywords": ["skills", "wordpress", "block-theme", "kirki-ecommerce", "linkedin"],
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "wordpress",
+    "block-theme",
+    "kirki-ecommerce",
+    "linkedin"
+  ],
   "skills": [
     "./skills/kirki-ecommerce-theme",
     "./skills/linkedin-post"

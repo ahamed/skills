@@ -12,6 +12,7 @@ task matches its description, and then follows its steps.
 4. [Requirements](#4-requirements)
 5. [Repository layout](#5-repository-layout)
 6. [Update and remove](#6-update-and-remove)
+7. [License](#7-license)
 
 ## 1. Skills in this repository
 
@@ -138,3 +139,7 @@ its path to `skills` in `.claude-plugin/plugin.json`. Then increase
 | Plugin | `/plugin marketplace update ahamed-skills` | `/plugin uninstall ahamed-skills@ahamed-skills` |
 | `skills` CLI | `npx skills update -g` | `npx skills remove <skill> -g` |
 | Manual | Pull the repository and copy the folders again | Delete `~/.claude/skills/<skill>/` |
+
+## 7. License
+
+[MIT](LICENSE)
